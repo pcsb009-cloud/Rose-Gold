@@ -1,5 +1,3 @@
-[paulinaysalome.html](https://github.com/user-attachments/files/23110023/paulinaysalome.html)
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
